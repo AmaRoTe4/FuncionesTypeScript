@@ -1,0 +1,300 @@
+100
+us
+nos,nosotros
+99
+most
+la mayoría, el mayor número, el máximo,
+98
+day
+día
+97
+give
+dar
+96
+these
+estos, estas
+95
+any
+alguno/a, cualquier/a
+94
+because
+porque
+93
+want
+querer
+92
+new
+nuevo
+91
+even
+incluso, aún, parejo
+90
+way
+camino, manera, método
+89
+well
+bien
+88
+first
+primero/a
+87
+work
+trabajo, trabajar
+86
+our
+nuestro/a
+85
+how
+cómo, como
+84
+two
+dos
+83
+use
+usar, uso
+82
+after
+después de
+81
+back
+de vuelta, atrás, espalda,
+80
+also
+también
+79
+think
+pensar
+78
+over
+encima de, por encima de, más de
+77
+its
+su
+76
+come
+venir, llegar
+75
+only
+solo, solamente, únicamente
+74
+look
+mirar, buscar, parecer
+73
+now
+ahora
+72
+then
+entonces
+71
+than
+que
+70
+other
+otra/o
+69
+see
+ver
+68
+them
+ellos, los (posesivo)
+67
+could
+podría, podríamos, podrían
+66
+some
+algo, alguno, algunas
+65
+good
+bueno
+64
+your
+tu/tus (posesivo)
+63
+year
+año
+62
+into
+dentro de, en, contra
+61
+people
+gente, personas
+60
+take
+tomar
+59
+know
+saber, conocer
+58
+him
+él
+57
+just
+solo, justo, acabar de
+56
+no
+no
+55
+time
+tiempo
+54
+like
+gustar, como (adv.)
+53
+can
+puede/o
+52
+make
+hacer
+51
+when
+cuando, cuándo
+50
+me
+yo, me, mi
+49
+go
+ir
+48
+which
+cuál, el/la cual
+47
+get
+obtener
+46
+who
+quién
+45
+about
+sobre, acerca de
+44
+if
+si
+43
+out
+afuera, fuera, lejos
+42
+up
+arriba
+41
+so
+así, tan
+40
+what
+qué
+39
+their
+ellos/as
+38
+there
+allá, allí
+37
+would
+condicional, terminación -ría
+36
+all
+todo/a, todos/as
+35
+one
+uno
+34
+my
+mi
+33
+will
+(futuro), voluntad
+32
+an
+un, una/o, unas/os
+31
+or
+o
+30
+she
+ella
+29
+her
+ella
+28
+say
+decir
+27
+we
+nosotros/as
+26
+they
+ellos/as
+25
+from
+de, desde
+24
+by
+por
+23
+his
+el
+22
+but
+pero
+21
+this
+esto/a
+20
+at
+a, en
+19
+do
+hacer
+18
+you
+tú, usted, ustedes
+17
+as
+como (adv.)
+16
+he
+él
+15
+with
+con
+14
+on
+en, sobre
+13
+not
+no
+12
+for
+para
+11
+it
+él, lo, la (cosa, animal), eso, esto
+10
+I
+yo
+9
+have
+tener, haber
+8
+that
+que, eso/e/a, aquello/a, cual
+7
+in
+en, dentro de
+6
+a
+un, una
+5
+and
+y
+4
+of
+de
+3
+to
+a, hacia, hasta, por, para,
+2
+be
+ser o estar
+1
+the
+el, la, los, las
